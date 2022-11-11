@@ -1,0 +1,20 @@
+F:\Academic\8th semester\oop2\GradingSystem\bin\Debug\GradingSystem.exe.config
+F:\Academic\8th semester\oop2\GradingSystem\bin\Debug\GradingSystem.exe
+F:\Academic\8th semester\oop2\GradingSystem\bin\Debug\GradingSystem.pdb
+F:\Academic\8th semester\oop2\GradingSystem\obj\Debug\GradingSystem.csproj.AssemblyReference.cache
+F:\Academic\8th semester\oop2\GradingSystem\obj\Debug\GradingSystem.GradingSystem.resources
+F:\Academic\8th semester\oop2\GradingSystem\obj\Debug\GradingSystem.Properties.Resources.resources
+F:\Academic\8th semester\oop2\GradingSystem\obj\Debug\GradingSystem.csproj.GenerateResource.cache
+F:\Academic\8th semester\oop2\GradingSystem\obj\Debug\GradingSystem.csproj.CoreCompileInputs.cache
+F:\Academic\8th semester\oop2\GradingSystem\obj\Debug\GradingSystem.exe
+F:\Academic\8th semester\oop2\GradingSystem\obj\Debug\GradingSystem.pdb
+C:\Users\USER\Desktop\oop2\GradingSystem\bin\Debug\GradingSystem.exe.config
+C:\Users\USER\Desktop\oop2\GradingSystem\bin\Debug\GradingSystem.exe
+C:\Users\USER\Desktop\oop2\GradingSystem\bin\Debug\GradingSystem.pdb
+C:\Users\USER\Desktop\oop2\GradingSystem\obj\Debug\GradingSystem.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\oop2\GradingSystem\obj\Debug\GradingSystem.GradingSystem.resources
+C:\Users\USER\Desktop\oop2\GradingSystem\obj\Debug\GradingSystem.Properties.Resources.resources
+C:\Users\USER\Desktop\oop2\GradingSystem\obj\Debug\GradingSystem.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\oop2\GradingSystem\obj\Debug\GradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\oop2\GradingSystem\obj\Debug\GradingSystem.exe
+C:\Users\USER\Desktop\oop2\GradingSystem\obj\Debug\GradingSystem.pdb
